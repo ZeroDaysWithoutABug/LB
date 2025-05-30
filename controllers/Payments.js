@@ -342,7 +342,7 @@ exports.sendPaymentSuccessEmail=async(req,res)=>{
 //         console.log(enrolledStudent);
 
 //         //Now send the courseEnrolled template mail 
-//          const emailResponse=await mailSender(enrolledStudent.email,"Congratulations from LearnForgeNotion","Congratulations,You are onboarded into new LearnForgeNotion Course")
+//          const emailResponse=await mailSender(enrolledStudent.email,"Congratulations from LearnForge","Congratulations,You are onboarded into new LearnForge Course")
 //         console.log(emailResponse);
 //         return res.status(200).json({
 //           success:true,

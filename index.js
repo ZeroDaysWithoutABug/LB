@@ -42,7 +42,7 @@ app.use(cookieParser());
 // app.use(
 //   cors({
 //     //frontend url
-//     origin:"https://LearnForge-notion-seven-nu.vercel.app",
+//     origin:"https://LearnForge--seven-nu.vercel.app",
 //     credentials:true,
 //   })
 // );
